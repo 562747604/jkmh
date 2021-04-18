@@ -1,0 +1,1317 @@
+{
+  "msg": "OK",
+  "code": 200,
+  "checkdatas": [
+    {
+      "cateId": "1",
+      "cateName": "一般检查",
+      "conclusion": "(1)收缩压：121mmHg;\r\n(2)舒张压：84mmHg;\r\n(3)脉搏：71次/分(机测);",
+      "reportItems": [
+        {
+          "id": "10001",
+          "name": "一般检查",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "1000105",
+              "itemName": "舒张压",
+              "itemValue": "84",
+              "unit": "mmHg",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "1000101",
+              "itemName": "身高",
+              "itemValue": "160",
+              "unit": "cm",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "1000106",
+              "itemName": "脉搏",
+              "itemValue": "71",
+              "unit": "次/分(机测)",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "1000104",
+              "itemName": "收缩压",
+              "itemValue": "121",
+              "unit": "mmHg",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "1000102",
+              "itemName": "体重",
+              "itemValue": "50",
+              "unit": "Kg",
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": "陈雷娜"
+    },
+    {
+      "cateId": "2",
+      "cateName": "内科",
+      "conclusion": "未见明显异常。",
+      "reportItems": [
+        {
+          "id": "20003",
+          "name": "病史询问",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "2000301",
+              "itemName": "现病史",
+              "itemValue": "无特殊",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000302",
+              "itemName": "既往史",
+              "itemValue": "无特殊",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "20001",
+          "name": "内科",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "2000110",
+              "itemName": "心律",
+              "itemValue": "齐",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000114",
+              "itemName": "胆囊",
+              "itemValue": "未触及",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000106",
+              "itemName": "胸廓",
+              "itemValue": "正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000112",
+              "itemName": "腹部",
+              "itemValue": "平坦、柔软",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000109",
+              "itemName": "心率",
+              "itemValue": "正常",
+              "unit": "次/分",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000118",
+              "itemName": "包块",
+              "itemValue": "无包块",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000107",
+              "itemName": "肺部 ",
+              "itemValue": "呼吸音清音",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000115",
+              "itemName": "脾脏",
+              "itemValue": "肋下未触及",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000104",
+              "itemName": "发育",
+              "itemValue": "正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000111",
+              "itemName": "杂音",
+              "itemValue": "无杂音",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000119",
+              "itemName": "移动性浊音",
+              "itemValue": "无",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000108",
+              "itemName": "心界",
+              "itemValue": "无异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000105",
+              "itemName": "体型",
+              "itemValue": "中",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000103",
+              "itemName": "营养",
+              "itemValue": "良好",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000116",
+              "itemName": "肾脏",
+              "itemValue": "未触及",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "2000113",
+              "itemName": "肝脏",
+              "itemValue": "肋下未触及",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": "王和平"
+    },
+    {
+      "cateId": "3",
+      "cateName": "外科",
+      "conclusion": "未见明显异常",
+      "reportItems": [
+        {
+          "id": "30004",
+          "name": "外科检查",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "3000405",
+              "itemName": "脊柱",
+              "itemValue": "未见畸形",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "3000403",
+              "itemName": "甲状腺",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "3000401",
+              "itemName": "手术史",
+              "itemValue": "无",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "3000406",
+              "itemName": "四肢\\关节",
+              "itemValue": "无异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "3000408",
+              "itemName": "表浅淋巴结",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": "李予辉"
+    },
+    {
+      "cateId": "4",
+      "cateName": "眼科",
+      "conclusion": "未见明显异常",
+      "reportItems": [
+        {
+          "id": "40002",
+          "name": "眼压",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "4000201",
+              "itemName": "右眼眼压",
+              "itemValue": null,
+              "unit": "mmHg",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000202",
+              "itemName": "左眼眼压",
+              "itemValue": null,
+              "unit": "mmHg",
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "40007",
+          "name": "眼底镜检查",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "4000701",
+              "itemName": "眼底",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "40006",
+          "name": "眼科一般检查",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "4000610",
+              "itemName": "房角",
+              "itemValue": "正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000612",
+              "itemName": "瞳孔",
+              "itemValue": "未见异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000606",
+              "itemName": "眼位",
+              "itemValue": "正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000609",
+              "itemName": "前房",
+              "itemValue": "正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000614",
+              "itemName": "视网膜",
+              "itemValue": "视网膜正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000613",
+              "itemName": "玻璃体",
+              "itemValue": "透明",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000611",
+              "itemName": "晶体",
+              "itemValue": "透明",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "4000605",
+              "itemName": "眼睑",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": "蔡秋萍"
+    },
+    {
+      "cateId": "5",
+      "cateName": "耳鼻喉科",
+      "conclusion": "口咽：咽炎。",
+      "reportItems": [
+        {
+          "id": "50001",
+          "name": "耳鼻喉科检查",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "5000102",
+              "itemName": "耳",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "5000106",
+              "itemName": "扁桃体",
+              "itemValue": "扁桃体正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "5000101",
+              "itemName": "听力",
+              "itemValue": "听力正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "5000103",
+              "itemName": "鼻",
+              "itemValue": "未见异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "5000105",
+              "itemName": "口咽",
+              "itemValue": "咽炎",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "5000104",
+              "itemName": "喉",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": "李焕雄"
+    },
+    {
+      "cateId": "6",
+      "cateName": "口腔科",
+      "conclusion": "牙齿：D4,5缺损。",
+      "reportItems": [
+        {
+          "id": "60001",
+          "name": "口腔科检查",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "6000103",
+              "itemName": "舌腭",
+              "itemValue": "正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "6000106",
+              "itemName": "唇",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "6000102",
+              "itemName": "口腔粘膜",
+              "itemValue": "口腔粘膜正常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "6000107",
+              "itemName": "颞下颌关节",
+              "itemValue": "未见明显异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "6000104",
+              "itemName": "涎腺",
+              "itemValue": "未见异常",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "6000101",
+              "itemName": "牙齿",
+              "itemValue": "其他",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": "方亮"
+    },
+    {
+      "cateId": "8",
+      "cateName": "心电图",
+      "conclusion": "正常心电图",
+      "reportItems": [
+        {
+          "id": "80001",
+          "name": "心电图",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "8000101",
+              "itemName": "十二导联心电图",
+              "itemValue": "正常心电图",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "dept_img-1",
+          "name": "图片",
+          "imgUris": [
+            "http://api.tintinhealth.com:9000/fileapi/v1/download/3c4c4dc7-d4dc-4c96-b67d-d4794e2ac7e1"
+          ],
+          "examItems": null
+        }
+      ],
+      "doctor": "李甜"
+    },
+    {
+      "cateId": "9",
+      "cateName": "彩超室",
+      "conclusion": "(1)肝脏：脂肪肝（轻度）;\r\n(2)胆囊、脾脏、肾脏、前列腺(彩)：未见明显异常;",
+      "reportItems": [
+        {
+          "id": "90014",
+          "name": "彩超常规（男）",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "9001402",
+              "itemName": "胆囊",
+              "itemValue": "胆囊大小形态正常，壁光滑，无增厚，内透声好，未见明显异常回声。",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "9001404",
+              "itemName": "肾脏",
+              "itemValue": "双肾大小形态正常，轮廓清，皮质髓质界限清晰，集合系统无分离。双输尿管无扩张。",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "9001403",
+              "itemName": "脾脏",
+              "itemValue": "脾脏大小形态正常，内部回声均匀。",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "9001401",
+              "itemName": "肝脏",
+              "itemValue": "肝脏形态稍饱满，包膜光滑，肝内回声均匀增强，后方回声衰减，肝内血管走行欠清晰。彩色多普勒显示：肝内未见异常血流信号。",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "dept_img-1",
+          "name": "图片",
+          "imgUris": [
+            "http://api.tintinhealth.com:9000/fileapi/v1/download/31c501ea-6365-4034-a583-6cbca5c54668"
+          ],
+          "examItems": null
+        }
+      ],
+      "doctor": "陈爱国"
+    },
+    {
+      "cateId": "11",
+      "cateName": "放射科",
+      "conclusion": "胸部正位：心、肺、膈未见明显异常。",
+      "reportItems": [
+        {
+          "id": "dept_img-1",
+          "name": "图片",
+          "imgUris": [
+            "http://api.tintinhealth.com:9000/fileapi/v1/download/f95992dd-7bf5-4c81-b795-4d95901fbfe0"
+          ],
+          "examItems": null
+        }
+      ],
+      "doctor": "郑步堂"
+    },
+    {
+      "cateId": "13",
+      "cateName": "心脏彩超科",
+      "conclusion": "心脏彩超:心脏结构、功能未见明显异常。",
+      "reportItems": [
+        {
+          "id": "130001",
+          "name": "心脏彩超",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "13000101",
+              "itemName": "心脏彩超",
+              "itemValue": "RA　27mm　LA　28mm　IVS　11mm　AO　28mmRV　20mm　LV　43mm　LVPW　11.5mm　PA　20mmEF　65%　　　　1、心脏各房室内径正常；心房正位，心室右袢，房室连接关系一致。2、室壁厚度正常，收缩期室壁增厚率正常，室壁运动协调。3、主动脉、肺动脉内径正常，与左心室、右心室连接关系正常，CDFI：大动脉水平未见分流。4、房间隔、室间隔回声连续。CDFI：房室水平未见分流。5、二尖瓣、主动脉瓣、肺动脉瓣、三尖瓣未见明显增厚及粘连。CDFI：未见TR、PR、MR、AR、TS、PS、MS、AS之花色血流信号。CW：未见TR、PR、MR、AR、TS、PS、MS、AS之湍流血流频谱；PW：二尖瓣：E峰>A峰。6、未见心包积液。",
+              "unit": null,
+              "range": null,
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": "陈爱国"
+    },
+    {
+      "cateId": "18",
+      "cateName": "检验科",
+      "conclusion": "(1)血常规：血红蛋白量：173↑、红细胞压积：51.6↑、平均红细胞体积：97.2↑。\r\n(2)血脂4项：甘油三脂：3.92↑。\r\n(3)肾功4项：尿酸：426.1↑。",
+      "reportItems": [
+        {
+          "id": "180035",
+          "name": "血脂4项",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18003504",
+              "itemName": "低密度脂蛋白",
+              "itemValue": "2.85",
+              "unit": "mmol/L",
+              "range": "0.00-4.11",
+              "imageUrl": null
+            },
+            {
+              "id": "18003503",
+              "itemName": "高密度脂蛋白",
+              "itemValue": "1.08",
+              "unit": "mmol/L",
+              "range": "0.90-1.96",
+              "imageUrl": null
+            },
+            {
+              "id": "18003502",
+              "itemName": "甘油三脂",
+              "itemValue": "↑",
+              "unit": "mmol/L",
+              "range": "0.40-2.30",
+              "imageUrl": null
+            },
+            {
+              "id": "18003501",
+              "itemName": "总胆固醇",
+              "itemValue": "5.79",
+              "unit": "mmol/L",
+              "range": "3.60-6.60",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180002",
+          "name": "尿常规",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18000203",
+              "itemName": "尿胆原",
+              "itemValue": "norm.",
+              "unit": "μmol/L",
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000218",
+              "itemName": "尿管型（镜检）",
+              "itemValue": "未见",
+              "unit": "LPF",
+              "range": "",
+              "imageUrl": null
+            },
+            {
+              "id": "18000207",
+              "itemName": "尿比重",
+              "itemValue": "1.01",
+              "unit": null,
+              "range": "1.010-1.030",
+              "imageUrl": null
+            },
+            {
+              "id": "18000214",
+              "itemName": "尿清晰度",
+              "itemValue": "清晰",
+              "unit": null,
+              "range": "",
+              "imageUrl": null
+            },
+            {
+              "id": "18000204",
+              "itemName": "尿蛋白",
+              "itemValue": "N",
+              "unit": "g/L",
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000219",
+              "itemName": "尿镜检结晶",
+              "itemValue": "未见",
+              "unit": null,
+              "range": "0-0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000206",
+              "itemName": "隐血",
+              "itemValue": "N",
+              "unit": null,
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000216",
+              "itemName": "红细胞(镜检)",
+              "itemValue": "未见",
+              "unit": null,
+              "range": "0--偶见",
+              "imageUrl": null
+            },
+            {
+              "id": "18000208",
+              "itemName": "尿酮体",
+              "itemValue": "N",
+              "unit": "mmol/L",
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000209",
+              "itemName": "尿胆红素",
+              "itemValue": "N",
+              "unit": "μmol/L",
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000202",
+              "itemName": "尿亚硝酸盐",
+              "itemValue": "N",
+              "unit": null,
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000217",
+              "itemName": "上皮细胞(镜检)",
+              "itemValue": "未见",
+              "unit": null,
+              "range": "",
+              "imageUrl": null
+            },
+            {
+              "id": "18000210",
+              "itemName": "尿葡萄糖",
+              "itemValue": "N",
+              "unit": "mmol/L",
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000215",
+              "itemName": "尿白细胞(镜检)",
+              "itemValue": "未见",
+              "unit": "HPF",
+              "range": "0--3",
+              "imageUrl": null
+            },
+            {
+              "id": "18000205",
+              "itemName": "尿酸碱度ph",
+              "itemValue": "7",
+              "unit": null,
+              "range": "5.0-8.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000213",
+              "itemName": "颜色",
+              "itemValue": "黄色",
+              "unit": null,
+              "range": "",
+              "imageUrl": null
+            },
+            {
+              "id": "18000211",
+              "itemName": "维生素C",
+              "itemValue": "N",
+              "unit": null,
+              "range": "Negative",
+              "imageUrl": null
+            },
+            {
+              "id": "18000201",
+              "itemName": "尿白细胞",
+              "itemValue": "N",
+              "unit": "",
+              "range": "Negative",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180025",
+          "name": "甲胎蛋白(AFP)",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18002501",
+              "itemName": "甲胎蛋白",
+              "itemValue": "7.35",
+              "unit": "",
+              "range": "<=20",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180105",
+          "name": "尿微量白蛋白",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18010501",
+              "itemName": "尿微量白蛋白",
+              "itemValue": "1.05",
+              "unit": null,
+              "range": "0－22.5",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180039",
+          "name": "空腹血糖",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18003901",
+              "itemName": "空腹血糖",
+              "itemValue": "5.42",
+              "unit": "mmol/L",
+              "range": "3.33-6.11",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180008",
+          "name": "血常规",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18000805",
+              "itemName": "淋巴细胞百分率",
+              "itemValue": "25.3",
+              "unit": "%",
+              "range": "20.0-40.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000813",
+              "itemName": "平均血红蛋白浓度",
+              "itemValue": "335",
+              "unit": "g/L",
+              "range": "320-360",
+              "imageUrl": null
+            },
+            {
+              "id": "18000824",
+              "itemName": "嗜碱性粒细胞计数",
+              "itemValue": null,
+              "unit": "x10^9/L",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "18000808",
+              "itemName": "红细胞计数",
+              "itemValue": "5.31",
+              "unit": "x10^12/L",
+              "range": "4－5.5",
+              "imageUrl": null
+            },
+            {
+              "id": "18000821",
+              "itemName": "单核细胞比率",
+              "itemValue": null,
+              "unit": "%",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "18000809",
+              "itemName": "血红蛋白量",
+              "itemValue": "↑",
+              "unit": "g/L",
+              "range": "120－170",
+              "imageUrl": null
+            },
+            {
+              "id": "18000811",
+              "itemName": "平均红细胞体积",
+              "itemValue": "↑",
+              "unit": "fL",
+              "range": "82.0-95.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000810",
+              "itemName": "红细胞压积",
+              "itemValue": "↑",
+              "unit": "L/L",
+              "range": "37.0-50.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000822",
+              "itemName": "嗜酸性粒细胞计数",
+              "itemValue": null,
+              "unit": "x10^9/L",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "18000807",
+              "itemName": "中间细胞百分率",
+              "itemValue": "8.4",
+              "unit": "%",
+              "range": "3.0-9.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000801",
+              "itemName": "白细胞计数",
+              "itemValue": "9.7",
+              "unit": "x10^9/L",
+              "range": "4.00-10.00",
+              "imageUrl": null
+            },
+            {
+              "id": "18000803",
+              "itemName": "中性细胞计数",
+              "itemValue": "6.4",
+              "unit": "x10^9/L",
+              "range": "2.00-7.00",
+              "imageUrl": null
+            },
+            {
+              "id": "18000819",
+              "itemName": "血小板分布宽度",
+              "itemValue": "15.4",
+              "unit": "10(GSD)",
+              "range": "7.1－18.9",
+              "imageUrl": null
+            },
+            {
+              "id": "18000817",
+              "itemName": "血小板平均体积",
+              "itemValue": "8.7",
+              "unit": "fl",
+              "range": "7.0-11.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000812",
+              "itemName": "平均血红蛋白量",
+              "itemValue": "32.5",
+              "unit": "Pg",
+              "range": "27.0-34.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000816",
+              "itemName": "血小板计数",
+              "itemValue": "214",
+              "unit": "x10^9/L",
+              "range": "100-300",
+              "imageUrl": null
+            },
+            {
+              "id": "18000818",
+              "itemName": "血小板压积",
+              "itemValue": "0.186",
+              "unit": "L/L",
+              "range": "0.108-0.282",
+              "imageUrl": null
+            },
+            {
+              "id": "18000823",
+              "itemName": "嗜酸性粒细胞比率",
+              "itemValue": null,
+              "unit": "%",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "18000820",
+              "itemName": "单核细胞计数",
+              "itemValue": null,
+              "unit": "x10^9/L",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "18000806",
+              "itemName": "中性粒细胞百分率",
+              "itemValue": "66.3",
+              "unit": "%",
+              "range": "50.0-70.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000814",
+              "itemName": "红细胞分布宽度(CV)",
+              "itemValue": "13.2",
+              "unit": "%",
+              "range": "11.5-14.5",
+              "imageUrl": null
+            },
+            {
+              "id": "18000825",
+              "itemName": "嗜碱性粒细胞比率",
+              "itemValue": null,
+              "unit": "%",
+              "range": null,
+              "imageUrl": null
+            },
+            {
+              "id": "18000804",
+              "itemName": "中间细胞计数",
+              "itemValue": "0.8",
+              "unit": "x10^9/L",
+              "range": "0.10-0.90",
+              "imageUrl": null
+            },
+            {
+              "id": "18000815",
+              "itemName": "红细胞分布宽度(SD)",
+              "itemValue": "49.8",
+              "unit": "fL",
+              "range": "35.0-56.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18000802",
+              "itemName": "淋巴细胞计数",
+              "itemValue": "2.5",
+              "unit": "x10^9/L",
+              "range": "0.80-4.00",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180007",
+          "name": "癌胚抗原(CEA)",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18000701",
+              "itemName": "癌胚抗原(CEA)",
+              "itemValue": "3.06",
+              "unit": "ng/mL",
+              "range": "<=10",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180072",
+          "name": "肾功4项",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18007203",
+              "itemName": "尿酸",
+              "itemValue": "↑",
+              "unit": "umol/L",
+              "range": "202－416",
+              "imageUrl": null
+            },
+            {
+              "id": "18007204",
+              "itemName": "尿素氮/肌酐",
+              "itemValue": "37.42",
+              "unit": null,
+              "range": "",
+              "imageUrl": null
+            },
+            {
+              "id": "18007201",
+              "itemName": "尿素氮",
+              "itemValue": "3.32",
+              "unit": null,
+              "range": "1.70-8.30",
+              "imageUrl": null
+            },
+            {
+              "id": "18007202",
+              "itemName": "肌酐",
+              "itemValue": "88.6",
+              "unit": "μmol/L",
+              "range": "60－132.6",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180074",
+          "name": "肝功6项",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18007401",
+              "itemName": "谷丙转氨酶",
+              "itemValue": "49.8",
+              "unit": "U/L",
+              "range": "9－50",
+              "imageUrl": null
+            },
+            {
+              "id": "18007405",
+              "itemName": "白蛋白/球蛋白",
+              "itemValue": "1.9",
+              "unit": "",
+              "range": "1.2-2.4",
+              "imageUrl": null
+            },
+            {
+              "id": "18007402",
+              "itemName": "总蛋白",
+              "itemValue": "72",
+              "unit": "g/L",
+              "range": "60.0-80.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18007404",
+              "itemName": "球蛋白",
+              "itemValue": "24.7",
+              "unit": "g/L",
+              "range": "20.00-35.00",
+              "imageUrl": null
+            },
+            {
+              "id": "18007406",
+              "itemName": "总胆红素",
+              "itemValue": "15.5",
+              "unit": "μmol/L",
+              "range": "2.0-20.0",
+              "imageUrl": null
+            },
+            {
+              "id": "18007403",
+              "itemName": "白蛋白",
+              "itemValue": "47.3",
+              "unit": "g/L",
+              "range": "38.0-51.0",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180011",
+          "name": "糖化血红蛋白",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18001101",
+              "itemName": "糖化血红蛋白百分率",
+              "itemValue": "4.89",
+              "unit": "%",
+              "range": "4.50-7.00",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180090",
+          "name": "谷草转氨酶（AST）",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18009001",
+              "itemName": "谷草转氨酶",
+              "itemValue": "38.5",
+              "unit": "U/L",
+              "range": "15－40",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180119",
+          "name": "脂蛋白a",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18011901",
+              "itemName": "脂蛋白a",
+              "itemValue": "84.14",
+              "unit": "mg/L",
+              "range": "0.00-300.00",
+              "imageUrl": null
+            }
+          ]
+        },
+        {
+          "id": "180009",
+          "name": "前列腺特异性抗原(PSA)",
+          "imgUris": null,
+          "examItems": [
+            {
+              "id": "18000901",
+              "itemName": "前列腺特异性抗原(PSA)",
+              "itemValue": "0.88",
+              "unit": null,
+              "range": "<=4",
+              "imageUrl": null
+            }
+          ]
+        }
+      ],
+      "doctor": null
+    }
+  ],
+  "healthDatas": {
+    "totalConclusion": {
+      "id": "daa6ef0b-232c-475b-a6c5-ed913cb7b3c6",
+      "time": "2017-02-13 15:46",
+      "doctor": "系统",
+      "unusuals": [
+        {
+          "cateId": "1111111",
+          "cateName": "理学检查",
+          "items": [
+            {
+              "id": "965",
+              "name": "红细胞压积/比容增高",
+              "desc": "建议咨询专科医师健康管理师，定期复查，接受医疗监控及健康管理。"
+            },
+            {
+              "id": "963",
+              "name": "红细胞平均体积增高",
+              "desc": "建议前往专科就诊，定期复查，接受医疗监控及健康管理。"
+            }
+          ]
+        }
+      ]
+    },
+    "healthAssess": {
+      "healthLevel": "A",
+      "healthState": "良好生理状态",
+      "illnessDesc": 1,
+      "epidemicSurvey": [
+        {
+          "id": "786dc643-0dd1-4799-8afb-95885f29f1c3",
+          "value": "较健康的生活习惯"
+        },
+        {
+          "id": "f524484b-c637-48a9-8c62-3f27b7365e3a",
+          "value": "不好"
+        }
+      ],
+      "examConclusion": "尊敬的朋友，本次体检项目仅反映了您目前相关躯体健康状况，流行病学调查未发现您有明显不良生活习惯，各项生理指标未见异常。建议您每年进行一次健康评估，以确保这一健康等级不变。"
+    }
+  },
+  "guideDatas": [
+    {
+      "id": "5",
+      "name": "血液及血细胞异常",
+      "content": [{"type": "text","order": 1,"title": "对身体蛋白质代谢异常状态的认识","content": "动物蛋白质作为人类饮食的必须品已经成为普通百姓的饮食准则，目前大多数城市居民蛋白质消费已超过了人体的需要量。烹饪的蛋白质不仅会引起饮食蛋白质含量过高，而且还会对身体产生不利的效果，这也是近年我国慢病患病率不断上升的重要因素之一。人体摄入蛋白质后，首先被化学分解为单独的氨基酸，然后再重新合成能为身体吸收的必须蛋白质。但是多余的蛋白质人体是无法储存的，或被转化为碳水化合物和脂肪为身体供给能量，或转化为脂肪存储于体内。如果体内蛋白质数量积累到身体无法处理的程度，尿酸和氨一类的毒素就会滞留于血液，引起敏感部位炎症，如关节炎、肾病、肝病、动脉钙化、癌症以及代谢性疾病。长期高蛋白质饮食，加上不运动，很容易引起骨质疏松，使骨骼脆弱易折。每日蛋白质摄入量超过95克，身体就会因高酸性而出现矿物质负平衡；每日蛋白质摄入量140克，无论钙的摄入量多大，每日均损失60毫克钙。甲状腺机能减退与动脉硬化、糖尿病、癌症以及诸多代谢障碍有关，其过量摄入蛋白质仍然是主因。过量摄入蛋白质还会引发高胰岛素血症，而过量胰岛素会降低血糖值引发低血糖。"},{"type": "text","order": 1,"title": "诱发因素","content": "1.高蛋白饮食，蛋白质摄入量达到损害身体的程度。2. 长期超量摄入动物蛋白质，包括肉、蛋、鱼、贝类、奶制品、乳酪。3.缺乏运动或几乎不运动。"},{"type": "html","order": 3,"title": "不同国家和专家对成人日均蛋白质摄入量的推荐标准","content": "<table border='1'><tr><th>Month</th><th>Savings</th></tr><tr><td>January</td><td>$100</td></tr></table>"}]
+    }
+]
+}
